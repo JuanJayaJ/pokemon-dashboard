@@ -19,4 +19,4 @@ A modern, interactive Pokémon Dashboard built with React, TypeScript, and Vite.
 4. Theming – Dark/light mode toggle with adaptive colors.
 
 Access it here:
-https://juanjayaj.github.io/pokemon-dashboard
+https://juanjayaj.github.io/pokemon-dashboard/
