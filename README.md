@@ -17,3 +17,6 @@ A modern, interactive Pokémon Dashboard built with React, TypeScript, and Vite.
 2. Search & Filter – Search Pokémon by name and filter by type.
 3. Pokémon Detail Modal – Sprite, flavor text, height, weight, abilities, and stats chart. Includes navigation (◀ ▶) to browse without closing the modal.
 4. Theming – Dark/light mode toggle with adaptive colors.
+
+Access it here:
+https://juanjayaj.github.io/pokemon-dashboard
