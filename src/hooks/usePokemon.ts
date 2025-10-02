@@ -43,7 +43,6 @@ const fetchPokemonList = async (): Promise<Pokemon[]> => {
   return results;
 };
 
-// 🔹 fungsi cari Pokémon by name (bisa dipakai di SearchBar)
 export const fetchPokemonByName = async (name: string): Promise<Pokemon | null> => {
   try {
     const detail = await axios.get<PokeApiDetailResponse>(
