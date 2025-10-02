@@ -7,7 +7,6 @@ import type {
   PokeApiSpeciesResponse,
 } from "../types/pokeapi";
 
-// 🔹 ambil 100 Pokémon untuk dashboard
 const fetchPokemonList = async (): Promise<Pokemon[]> => {
   const res = await axios.get<PokeApiListResponse>(
     "https://pokeapi.co/api/v2/pokemon?limit=1000"
